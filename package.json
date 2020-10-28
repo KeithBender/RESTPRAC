@@ -1,0 +1,27 @@
+{
+  "name": "RESTPRAC",
+  "version": "1.0.0",
+  "description": "Practice REST Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithBender/RESTPRAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeithBender/RESTPRAC/issues"
+  },
+  "homepage": "https://github.com/KeithBender/RESTPRAC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
